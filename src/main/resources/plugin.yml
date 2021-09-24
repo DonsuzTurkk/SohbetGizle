@@ -1,0 +1,8 @@
+name: SohbetGizle
+version: '${project.version}'
+main: tr.donsuzturk.sohbetgizle.SohbetGizle
+api-version: 1.16
+authors: [ DonsuzTurk ]
+commands:
+  sohbet:
+    description: ana komut.
